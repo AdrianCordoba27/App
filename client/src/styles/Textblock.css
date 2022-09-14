@@ -1,0 +1,44 @@
+.text-container{
+    width: 1170px;
+    height: 368px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #222222;
+    box-shadow: 0 3px 13px 1px rgba(0, 0, 0, 9%);
+}
+
+.text-text-container{
+    background-color: #222222;
+    text-align: left;
+}
+
+.text-image{
+    padding-left: 10px;
+    width: 350px;
+    height: 350px;   
+}
+
+.text-name{
+    font-size: 1.2rem;
+    margin-left: 15px;
+}
+
+.text-set{
+    font-size: 1.2rem;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.text-skill-name{
+    font-size: 1.2rem;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.text-text{
+    margin: 50px 15px 0 15px;
+    text-align: justify;
+}
+

@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Jhin",
+        "class": "Clockwork, Sniper",
+        "set": 6,
+        "skillName": "Curtain Call",
+        "skillDescription": "Jhin transforms his weapon into a powerful sniper rifle for his next 4 shots. Each shot deals a percentage of his Attack Damage as physical damage, reduced by 33% for each target it pierces through. The 4th shot is guaranteed to critically strike, and deals 44% more damage based on his target&apos;s missing Health. Passive: Jhin always attacks .9/.9/1.4 times per second. He converts each 1% of bonus Attack Speed into .8 Attack Damage."
+    },
+    {
+        "name": "Sohm",
+        "class": "Lagoon, Mage, Dragon",
+        "set": 7.5,
+        "skillName": "Tideblossom",
+        "skillDescription": "Sohm sends out a tide to an unmarked target, marking them with a Tideblossom and dealing magic damage to enemies along the way. Tideblossoms transfer to a nearby target if the enemy dies. After 3 casts, his next cast instead summons a vortex under each Tideblossom, dealing magic damage to enemies in the area."
+    },
+    {
+        "name": "Veigar",
+        "class": "Elderwood, Mage",
+        "set": 4,
+        "skillName": "Dark Blossom",
+        "skillDescription": "Veigar blasts the lowest health enemy with a burst of energy, dealing magic damage. If this kills the target, Veigar permanently gains spell power."
+    }
+]
